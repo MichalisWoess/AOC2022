@@ -1,0 +1,15 @@
+C:\Users\Ytler\Desktop\Projects\AOC2022\level-3\level-3\bin\Debug\net6.0\level-3.exe
+C:\Users\Ytler\Desktop\Projects\AOC2022\level-3\level-3\bin\Debug\net6.0\level-3.deps.json
+C:\Users\Ytler\Desktop\Projects\AOC2022\level-3\level-3\bin\Debug\net6.0\level-3.runtimeconfig.json
+C:\Users\Ytler\Desktop\Projects\AOC2022\level-3\level-3\bin\Debug\net6.0\level-3.dll
+C:\Users\Ytler\Desktop\Projects\AOC2022\level-3\level-3\bin\Debug\net6.0\level-3.pdb
+C:\Users\Ytler\Desktop\Projects\AOC2022\level-3\level-3\obj\Debug\net6.0\level-3.csproj.AssemblyReference.cache
+C:\Users\Ytler\Desktop\Projects\AOC2022\level-3\level-3\obj\Debug\net6.0\level-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ytler\Desktop\Projects\AOC2022\level-3\level-3\obj\Debug\net6.0\level-3.AssemblyInfoInputs.cache
+C:\Users\Ytler\Desktop\Projects\AOC2022\level-3\level-3\obj\Debug\net6.0\level-3.AssemblyInfo.cs
+C:\Users\Ytler\Desktop\Projects\AOC2022\level-3\level-3\obj\Debug\net6.0\level-3.csproj.CoreCompileInputs.cache
+C:\Users\Ytler\Desktop\Projects\AOC2022\level-3\level-3\obj\Debug\net6.0\level-3.dll
+C:\Users\Ytler\Desktop\Projects\AOC2022\level-3\level-3\obj\Debug\net6.0\refint\level-3.dll
+C:\Users\Ytler\Desktop\Projects\AOC2022\level-3\level-3\obj\Debug\net6.0\level-3.pdb
+C:\Users\Ytler\Desktop\Projects\AOC2022\level-3\level-3\obj\Debug\net6.0\level-3.genruntimeconfig.cache
+C:\Users\Ytler\Desktop\Projects\AOC2022\level-3\level-3\obj\Debug\net6.0\ref\level-3.dll
