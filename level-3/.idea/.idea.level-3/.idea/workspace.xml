@@ -4,42 +4,7 @@
     <projectFile>level-3/level-3.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acb64800-d010-4cb7-9eaa-558dab74d656" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.level-3/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.level-3/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/global.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/bin/Debug/net6.0/input" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/bin/Debug/net6.0/level-3.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/bin/Debug/net6.0/level-3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/bin/Debug/net6.0/level-3.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/bin/Debug/net6.0/level-3.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/bin/Debug/net6.0/level-3.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/level-3.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/obj/Debug/net6.0/apphost.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/obj/Debug/net6.0/level-3.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/obj/Debug/net6.0/level-3.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/obj/Debug/net6.0/level-3.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/obj/Debug/net6.0/level-3.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/obj/Debug/net6.0/level-3.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/obj/Debug/net6.0/level-3.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/obj/Debug/net6.0/level-3.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/obj/Debug/net6.0/level-3.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/obj/Debug/net6.0/level-3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/obj/Debug/net6.0/level-3.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/obj/Debug/net6.0/level-3.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/obj/Debug/net6.0/ref/level-3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/obj/Debug/net6.0/refint/level-3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/obj/level-3.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/obj/level-3.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/obj/level-3.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level-3/obj/rider.project.restore.info" afterDir="false" />
-    </list>
+    <list default="true" id="acb64800-d010-4cb7-9eaa-558dab74d656" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +12,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/level-3/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -95,8 +63,16 @@
       <option name="presentableId" value="Default" />
       <updated>1670059313479</updated>
       <workItem from="1670059322448" duration="294000" />
-      <workItem from="1670059670572" duration="3197000" />
+      <workItem from="1670059670572" duration="3224000" />
     </task>
+    <task id="LOCAL-00001" summary="Level 3">
+      <created>1670064355673</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670064355673</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,5 +93,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Level 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Level 3" />
   </component>
 </project>
