@@ -4,10 +4,7 @@
     <projectFile>level-6/level-6.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a8da866-152b-45e6-8214-61432a8bda6c" name="Changes" comment="Level 6 A">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.level-6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.level-6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level-6/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/level-6/Program.cs" afterDir="false" />
-    </list>
+    <list default="true" id="1a8da866-152b-45e6-8214-61432a8bda6c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +12,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/Ytler/Desktop/Projects/AOC2022/level-6/level-6/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -61,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670325426777</updated>
-      <workItem from="1670325442217" duration="552000" />
+      <workItem from="1670325442217" duration="709000" />
     </task>
     <task id="LOCAL-00001" summary="Level 6 A">
       <created>1670325905697</created>
@@ -70,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670325905697</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Level 6 B">
+      <created>1670326018316</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670326018316</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +99,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Level 6 A" />
-    <option name="LAST_COMMIT_MESSAGE" value="Level 6 A" />
+    <MESSAGE value="Level 6 B" />
+    <option name="LAST_COMMIT_MESSAGE" value="Level 6 B" />
   </component>
 </project>
